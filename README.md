@@ -1,6 +1,6 @@
 # 💫 Hey There. I am Ramakrishna Chavali. 
 ## 🤔 Wanna know about me?
-🔭 I’m currently a Student, persuing BTech. in Information Technology.<br>👯 I’m looking to collaborate on projects of Data Science.<br>🌱 I’m currently exploring the field of DS by learning practically.<br>💬 Ask me about My Life(Nothing's interesting though).<br>⚡ Fun fact is that I am Funny at times 😎.
+🔭 I’m currently a Student, pursuing BTech. in Information Technology.<br>👯 I’m looking to collaborate on projects of Data Science.<br>🌱 I’m currently exploring the field of DS by learning practically.<br>💬 Ask me about My Life(Nothing's interesting though).<br>⚡ Fun fact is that I am Funny at times 😎.
 
 
 ## 🌐 Socials:
