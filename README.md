@@ -28,3 +28,50 @@ Developed a Streamlit application for Google Cloud's Conversational Analytics AP
 Created modular Terraform configurations for BigQuery Analytics Hub, managing data exchanges, listings, and cross-project resources with proper data governance controls.
 
 **Tech:** Terraform, Google Cloud, BigQuery, Analytics Hub
+
+## Tech Stack
+
+**Cloud & Infrastructure**
+- **GCP Services:** BigQuery, Dataform, Composer (Airflow), Cloud Run, Vertex AI, Analytics Hub
+- **IaC & CI/CD:** Terraform, Harness Pipelines
+- **Containers:** Docker, Cloud Run deployments
+
+**Backend & Data Engineering**
+- **Languages:** Python, SQL
+- **Frameworks:** FastAPI, Flask
+- **Data Processing:** Pandas, NumPy, Apache Airflow
+- **Observability:** Custom dashboards, logging frameworks
+
+**Frontend & Full-Stack**
+- **Frameworks:** Next.js, React, TypeScript
+- **UI Libraries:** shadcn-ui, Tailwind CSS
+- **Rapid Prototyping:** Streamlit
+- **ORMs:** Drizzle ORM
+
+**Data Science & ML**
+- **Libraries:** TensorFlow, Keras, scikit-learn
+- **Visualization:** Matplotlib, Plotly, Seaborn
+- **Tools:** Jupyter, Google Colab
+
+**Other Skills**
+- Git version control
+- API development and integration
+- Database design and optimization
+- Data governance and security
+
+## What I'm Learning
+
+- Advanced React patterns and state management
+- Modern UI/UX design principles
+- Scalable backend architecture patterns
+- Business intelligence tools and semantic layers
+- Cybersecurity fundamentals for data platforms
+
+## Areas of Interest
+
+- **Data Platform Engineering:** Building unified platforms that consolidate data tools
+- **BI Tool Development:** Exploring alternatives to traditional BI tools with better developer experience
+- **Infrastructure Automation:** Dynamic provisioning patterns and infrastructure-as-code
+- **Observability:** Creating comprehensive monitoring and alerting systems
+- **Entrepreneurship:** Exploring opportunities in cybersecurity and data platform spaces
+
