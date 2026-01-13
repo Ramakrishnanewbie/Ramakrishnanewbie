@@ -99,12 +99,5 @@ When I'm not coding, I'm exploring new technologies, reading about system design
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramakrishna-chavali-177485233/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramakrishna_chavali/)
 
-📧 Open to collaborating on data platform projects, full-stack applications, or entrepreneurial ventures.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramakrishnanewbie&theme=tokyonight&hide_border=false&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnanewbie&theme=tokyonight&hide_border=false&layout=compact)
 
