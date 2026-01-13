@@ -24,3 +24,8 @@ Data Engineer specializing in Google Cloud Platform and modern data infrastructu
 **Data Science & ML**
 - TensorFlow, Keras, scikit-learn
 - NumPy, Pandas, Matplotlib, Plotly
+
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramakrishna-chavali)
