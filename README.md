@@ -75,3 +75,36 @@ Created modular Terraform configurations for BigQuery Analytics Hub, managing da
 - **Observability:** Creating comprehensive monitoring and alerting systems
 - **Entrepreneurship:** Exploring opportunities in cybersecurity and data platform spaces
 
+## Professional Experience
+
+**Data Engineer**
+- Designed and implemented OAuth-authenticated data analytics applications on GCP
+- Built automated pipeline generation tools for Vertex AI deployments
+- Created modular Terraform infrastructure for multi-project data sharing
+- Developed observability dashboards for monitoring data pipelines
+- Implemented data governance controls with PII policy tag enforcement
+
+## Key Competencies
+
+- **Problem Solving:** Breaking down complex problems into manageable, actionable solutions
+- **System Design:** Architecting scalable, maintainable data infrastructure
+- **Code Quality:** Writing clean, documented, production-ready code
+- **Learning Agility:** Quickly picking up new technologies and frameworks
+- **Practical Focus:** Preferring working solutions over theoretical perfection
+
+## Side Interests
+
+When I'm not coding, I'm exploring new technologies, reading about system design patterns, and thinking about the next big problem to solve in the data engineering space.
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramakrishna-chavali-177485233/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramakrishna_chavali/)
+
+📧 Open to collaborating on data platform projects, full-stack applications, or entrepreneurial ventures.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramakrishnanewbie&theme=tokyonight&hide_border=false&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnanewbie&theme=tokyonight&hide_border=false&layout=compact)
+
