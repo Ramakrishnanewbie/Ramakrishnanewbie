@@ -1,31 +1,30 @@
 # Hi, I'm Ramakrishna Chavali 👋
 
-Data Engineer specializing in Google Cloud Platform and modern data infrastructure.
+Data Engineer specializing in Google Cloud Platform and modern data infrastructure. I build scalable data platforms, analytics applications, and automated pipelines that bridge the gap between data engineering and full-stack development.
 
-## What I'm Working On
+## About Me
 
-- Building multi-tenant data platforms with workspace-based access control
-- Developing OAuth-authenticated analytics applications on GCP
-- Exploring full-stack development with Next.js and React
-- Creating automated infrastructure provisioning with Terraform
+I'm a data engineer with deep expertise in Google Cloud Platform, currently transitioning into full-stack development to build end-to-end data products. My focus is on creating production-ready systems that are both technically robust and user-friendly.
 
-## Tech Stack
+**What drives me:**
+- Building elegant solutions to complex data problems
+- Creating self-service data platforms that empower teams
+- Automating infrastructure and reducing manual overhead
+- Writing clean, maintainable code that others can understand
 
-**Cloud & Data Engineering**
-- Google Cloud Platform (BigQuery, Dataform, Composer, Cloud Run, Vertex AI)
-- Terraform, Harness CI/CD
-- Python, SQL, FastAPI
+## Current Projects
 
-**Full-Stack Development**
-- Next.js, React, TypeScript
-- shadcn-ui, Tailwind CSS
-- Streamlit for rapid prototyping
+### Multi-Tenant Data Platform
+Building a Harness-inspired platform with workspace management, team-based GCP project scoping, and customizable dashboards. Built with Next.js, shadcn-ui, and BigQuery as a metadata store.
 
-**Data Science & ML**
-- TensorFlow, Keras, scikit-learn
-- NumPy, Pandas, Matplotlib, Plotly
+**Tech:** Next.js, TypeScript, shadcn-ui, BigQuery, Terraform
 
+### OAuth-Authenticated Analytics Application
+Developed a Streamlit application for Google Cloud's Conversational Analytics API with per-user BigQuery permissions and secure authentication flows.
 
-## Get in Touch
+**Tech:** Python, Streamlit, FastAPI, BigQuery, Cloud Run
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramakrishna-chavali)
+### Automated Infrastructure Provisioning
+Created modular Terraform configurations for BigQuery Analytics Hub, managing data exchanges, listings, and cross-project resources with proper data governance controls.
+
+**Tech:** Terraform, Google Cloud, BigQuery, Analytics Hub
